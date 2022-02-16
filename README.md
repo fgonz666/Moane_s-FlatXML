@@ -8,4 +8,6 @@ L'avantage le plus primaire reste l'accessibilité du contenu des fichiers Libre
 
 L'autre avantage est la pérennité accrûe des contenus : le texte étant un format lisible sur des décennies.
 
+Il n'y a pas de sous-dossiers ici, juste les quelques fichiers nécessaires.
+
 Moane
