@@ -40,6 +40,12 @@ Il y en a sûrement plusieurs, mais suivant la complexité et la structure du do
 
 ## La conversion.
 
+Il suffit donc d'ouvrir un document avec libreoffice et *d'enregistrer sous* vers le format ***XML flat**.
+
+![](libreoffice-test-save-as.png)
+
+Mais s'il y a besoin de tout convertir ça peut devenir très long ...
+
 Comme je suis sympa, je vous donne même les lignes de commandes pour convertir tous les fichiers (on va dire du répertoire courant) des fichiers libreoffice writer et libreoffice calc :
 
 ```bash
