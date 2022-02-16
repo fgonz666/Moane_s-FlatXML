@@ -52,7 +52,7 @@ Comme je suis sympa, je vous donne même les lignes de commandes pour convertir 
 
 ```bash
 lowriter --convert-to fodt *.odt
-lowriter --convert-to fods *.ods
+localc --convert-to fods *.ods
 ```
 
 J'espère que cela vous aidera !
