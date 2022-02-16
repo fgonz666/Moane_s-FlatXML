@@ -32,6 +32,12 @@ Une simple modification n'entraîne plus toute la sauvegarde complète du fichie
 
 Il est possible aussi d'imaginer de copier-coller cela dans un pad collaboratif (type framapad ou etherpad) d'y travailler à plusieurs et enfin de récupérer directement un fichier office ouvrable par les intéressés de l'autre côté des écrans.
 
+## L'inconvénient.
+
+Il y en a sûrement plusieurs, mais suivant la complexité et la structure du document, la taille n'est pas du tout la même, les fichiers **XML flat** n'était pas compressés ils occupent plus d'espace, la contrepartie est que leurs modifications entraînent moins d'espace de stockage demandé puisque seules les lignes modifiées seront l'objet d'un commit.
+
+![](test-list.png)
+
 ## La conversion.
 
 Comme je suis sympa, je vous donne même les lignes de commandes pour convertir tous les fichiers (on va dire du répertoire courant) des fichiers libreoffice writer et libreoffice calc :
