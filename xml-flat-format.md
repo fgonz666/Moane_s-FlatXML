@@ -32,6 +32,8 @@ Une simple modification n'entraîne plus toute la sauvegarde complète du fichie
 
 Il est possible aussi d'imaginer de copier-coller cela dans un pad collaboratif (type framapad ou etherpad) d'y travailler à plusieurs et enfin de récupérer directement un fichier office ouvrable par les intéressés de l'autre côté des écrans.
 
+Il y a bien sûr un autre avantage : Comme il m'arrive encore de relire de vieux e-Zines des années 80/90 écrits sur d'anciens systèmes (amiga, pc, mac) qui continuent encore à être lisibles, en effet ils sont écrits dans un format textuel. Cet avantage, celui de l'accès au contenu dans la durée, est aussi à mettre en avant.
+
 ## L'inconvénient.
 
 Il y en a sûrement plusieurs, mais suivant la complexité et la structure du document, la taille n'est pas du tout la même, les fichiers **XML flat** n'était pas compressés ils occupent plus d'espace, la contrepartie est que leurs modifications entraînent moins d'espace de stockage demandé puisque seules les lignes modifiées seront l'objet d'un commit.
